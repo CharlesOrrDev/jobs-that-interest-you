@@ -26,4 +26,4 @@
 ## Peer Review: 
 
 ## Vercel Link:
-  [https://jobs-that-interest-you-sigma.vercel.app]
+  https://jobs-that-interest-you-sigma.vercel.app
