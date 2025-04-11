@@ -68,7 +68,7 @@ const CardsPage = () =>
       </div>
 
       <div>
-        <button onClick={handleSwitch} className={`flex flex-col items-center justify-center w-full h-[100vh] ${switchScreen ? "hidden" : ""}`}>
+        <button onClick={handleSwitch} className={`flex flex-col items-center justify-center w-full h-[100vh] text-white ${switchScreen ? "hidden" : ""}`}>
           <h1 className="text-7xl pb-[100px] text-shadow-blue-800 text-shadow-[0px_0px_50px_rgba(0,0,0,0.6)]">Jobs that Interest you</h1>
           <p className="text-4xl opacity-[60%] text-shadow-white text-shadow-[0px_0px_30px_rgba(0,0,0,0.6)]">Click Anywhere to Continue</p>
         </button>
