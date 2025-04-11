@@ -21,9 +21,15 @@
 
   Must be peer reviewed 
 
-## Reviewers Name: 
+## Reviewers Name: Santiago Montanez
 
-## Peer Review: 
+## Peer Review: Bugs I found
+
+- Light mode is pretty bad. May want to take it into account
+- Make sure to at least to change the name of the document, so it isn't the default "Create Next App"
+- Make sure to add &apos; so that "What Id Like To Achieve" -> "What I'd Like To Achieve"
+
+- Love the load screen. gonna see how you did that later
 
 ## Vercel Link:
   https://jobs-that-interest-you-sigma.vercel.app
