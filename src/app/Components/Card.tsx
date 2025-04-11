@@ -15,7 +15,7 @@ const Card = ({jobNameText, jobDescriptionText, jobRequirementsText, skillsNeede
 {
   return (
     <>
-      <div className="grid gap-[10px] bg-blue-950 inset-shadow-blue-400 inset-shadow-[0px_0px_10px_rgba(0,0,0,0.6)] items-center w-[700px] h-fit p-[20px] rounded-[10px]">
+      <div className="grid gap-[10px] bg-blue-950 inset-shadow-blue-400 inset-shadow-[0px_0px_10px_rgba(0,0,0,0.6)] items-center w-[700px] h-fit p-[20px] rounded-[10px] text-white">
 
         <div className="outline-[2px] outline-black/20 rounded-[5px] px-[15px] py-[10px] shadow-[0px_0px_10px_rgba(0,0,0,0.6)] w-[660px]">
           <h1 className="pb-[5px]">Job Name</h1>
